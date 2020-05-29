@@ -1,4 +1,4 @@
-This code will be removed
+Adding a new line here
 
 This is a sample of how changes in code will appear in GitHub Desktop
 
